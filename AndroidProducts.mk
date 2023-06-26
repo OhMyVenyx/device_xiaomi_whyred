@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/conquer_whyred.mk
+    $(LOCAL_DIR)/xdroid_whyred.mk
 
 COMMON_LUNCH_CHOICES := \
-    conquer_whyred-user \
-    conquer_whyred-userdebug \
-    conquer_whyred-eng
+    xdroid_whyred-user \
+    xdroid_whyred-userdebug \
+    xdroid_whyred-eng
